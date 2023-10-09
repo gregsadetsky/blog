@@ -4,7 +4,7 @@ title:  "you can use github actions to run a backend web server, kinda"
 date:   2023-10-08 23:33:19 -0400
 ---
 
-I really don't know what to think about any of this.
+I really don't know what to make of any of this.
 
 hi, greg technology here. long time blog reader, not frequent poster.
 
