@@ -6,7 +6,7 @@ date:   2023-10-08 23:33:19 -0400
 
 I really don't know what to make of any of this.
 
-hi, greg technology here. long time blog reader, not frequent poster.
+hi, greg technology here. long time blog reader.
 
 ok so here was my thought process:
 - github pages is an award winning, world changing, olympic/guiness/nobel-level gift to the world. it is great. it is beyond great. it gives away free web hosting for absolutely most web sites. if you are in want of web publishing, and your site has content, basically, github pages solves all of your problems. it does not create a single new problem in the world ---- it's a net positive world problem offering. it's [this meme](https://knowyourmeme.com/memes/yeah-sex-is-cool-but) except that it says "github pages" instead of "garlic bread."
