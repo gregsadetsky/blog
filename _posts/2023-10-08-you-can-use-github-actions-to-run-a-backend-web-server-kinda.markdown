@@ -42,7 +42,7 @@ and there is a way. it works. I tested it. here's how:
          │                     │                               │              │
          │                 ┌───▼────────────────┐              │              │
 ┌────────▼────────────┐    │  another repo with │     ┌────────▼────────┐     │
-│ a repo containing   │    │  an express server │     │yet another repo │     │
+│ a repo containing   │    │  a node server     │     │   another repo  │     │
 │ backend code like   │    │                    │     │                 │     │
 │ an express server   │    └───────────┬────────┘     └─────────┬───────┘     │
 └──────────┬──────────┘                │                        │             │
