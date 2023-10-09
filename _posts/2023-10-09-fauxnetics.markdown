@@ -4,8 +4,6 @@ title:  "fauxnetic alphabet"
 date:   2023-10-09 19:08:19 -0400
 ---
 
-## Fauxnetic Alphabet
-
 - **A** as in "Are"
 - **B** as in "Bdellium"
 - **C** as in "Choir"
