@@ -65,7 +65,7 @@ sorry does this graph work for you? anyway ok, here's the plan explained again:
 
 it kinda works. it's just slow as molasses (about 15 seconds per web request). but it works -- look, I have a [weird test repo here](https://github.com/gregsadetsky/this-repo-demonstrates-that-you-can-use-github-actions-as-a-way-to-run-backend-web-servers-badly) and you can check the [github actions workflow file](https://github.com/gregsadetsky/this-repo-demonstrates-that-you-can-use-github-actions-as-a-way-to-run-backend-web-servers-badly/blob/main/.github/workflows/github-actions-demo.yml) and also the bizarre web """[gateway](https://github.com/gregsadetsky/this-repo-demonstrates-that-you-can-use-github-actions-as-a-way-to-run-backend-web-servers-badly/blob/main/github-actions-gateway.mjs)""". why am I trying so desperately to convince you.
 
-### it all works. all of this is a really strange exercise. but it works
+### it all works. all of this was a really strange exercise. but it works
 
 I derive satisfaction from making things work. this thing work. I derived whatever I wanted to derive. dy/dx. it's derived. it's done.
 
