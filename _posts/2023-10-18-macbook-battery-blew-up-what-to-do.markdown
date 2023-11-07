@@ -4,6 +4,14 @@ title:  "macbook battery blew up - what to do?"
 date:   2023-10-17 19:08:19 -0400
 ---
 
+**UPDATE**: Apple did right by my friend and offered to replace the laptop entirely.
+
+All's well that ends well.
+
+---
+
+<p style="margin-top:10px">Original article:</p>
+
 my friend's macbook's battery blew up. see below.
 
 ![macbook blew up](/assets/macbook-goes-boom/internals1.jpg)
