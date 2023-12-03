@@ -34,7 +34,7 @@ but as of today - and today is all we have - it works. here goes:
 2. create an embedded signup form on mailchimp. it will be a bunch of html. we will modify it and extract stuff from it.
 3. add this, roughly, to your html:
 
-```
+```html
 <form action="" style='text-align: center;'>
     <input type="hidden" name="c" value="?"/>
     <input type="hidden" name="subscribe" value="Subscribe">
@@ -53,7 +53,7 @@ but as of today - and today is all we have - it works. here goes:
 
 5\. here's some typescript-ish for you:
 
-```
+```typescript
 // THIS IS VERY IMPORTANT
 // 5.1 take the <form action="..." value from your original mailchimp embedded form
 // 5.2 AND REPLACE /subscribe/post with /subscribe/post-json 
