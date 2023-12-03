@@ -94,4 +94,4 @@ export function maybeEmailSignup({ form }: { form: HTMLFormElement }) {
 
 7\. test your form once a month cause this is all so extremely fragile and untrustworthy.
 
-8\. we used to have `<?php mail(...)` back in the day. we used to run code on servers. we didn't know how good we had it.
+8\. we used to have `<?php mail(...)` back in the day. we used to run code on servers. we were [normal and innocent](https://www.youtube.com/watch?v=lr_vl62JblQ). we didn't know how good we had it.
