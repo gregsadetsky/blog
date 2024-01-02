@@ -10,6 +10,6 @@ histogram:
 
 ![alarms histogram](/assets/iphone-alarms/alarms-hist.png)
 
-extracted by taking screenshots of all of my iphone alarms, and then running ocr on my laptop.
+extracted by taking screenshots of all of my iphone alarms, and then [running ocr on my laptop](/2024/01/02/how-do-you-ocr-on-a-mac.html).
 
 [this is me](https://knowyourmeme.com/photos/873502-there-are-two-types-of-people).

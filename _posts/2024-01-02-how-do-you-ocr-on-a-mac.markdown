@@ -21,15 +21,15 @@ a kind reader reached out about [all of my iphone alarms](/2024/01/01/all-of-my-
 <p style="text-align: center;"><img src="/assets/how-to-ocr/step2.png" style="width:300px"></p>
 
 - you'll see a big "**Receive *Any* input from *Nowhere***" action appear above the "Extract text from Shortcut Input". it's all good, leave it as is
-- in the right sidebar, search for "**copy**". you should see "**Copy to Clipboard**". drag that action below the "**Extract text from ...**" one.
-  - dragging the "Copy to ..." action below the "Extract from ..." is really annoyingly hard. just keep dragging it *really* below and it will work at some point.
+- in the right sidebar, search for "**copy**". you should see "**Copy to Clipboard**". drag that action below the "**Extract text from ...**" one
+  - dragging the "Copy to ..." action below the "Extract from ..." is really annoyingly hard. just keep dragging it *really* below and it will work at some point
 - your final setup should look like this:
 
 <p style="text-align: center;"><img src="/assets/how-to-ocr/step3.png" style="width:600px"></p>
 
 - in the last action, make sure that after "**Copy**" it does say "**Text from Image**"!
 - you're like almost done!!
-- in the window title bar, type stuff to name the shortcut. because [I'm from a generation](https://twitter.com/TheIdOfAlan/status/1458117496087748618), I recommend naming it "extract-text" or "ocr-text" or something simple with no spaces and all lowercases. sorry. **press enter** after naming the shortcut otherwise it won't remember the name (...??)
+- in the window title bar, type stuff to name the shortcut. because [I'm from a generation](https://twitter.com/TheIdOfAlan/status/1458117496087748618), I recommend naming it "extract-text" or "ocr-text" or something simple with no spaces and all lowercase. sorry. **press enter** after naming the shortcut otherwise it won't remember the name (...??)
 
 <p style="text-align: center;"><img src="/assets/how-to-ocr/step4.png" style="width:300px"></p>
 
