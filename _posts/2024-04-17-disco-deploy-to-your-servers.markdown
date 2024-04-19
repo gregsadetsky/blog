@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "use disco to deploy a Flask and SQLite project to your own server"
-date:   2024-01-02 10:08:19 -0400
+date:   2024-04-17 10:08:19 -0400
 ---
 
 My friend Antoine Leclair and I have been working on **[disco](https://letsdisco.dev/)**, an Open Source tool that lets you deploy web backend projects to your own servers. We're looking forward to having more people try it out!
