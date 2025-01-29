@@ -32,7 +32,7 @@ but i have no idea.
 
 ---
 
-to peer into nolen's soul - to discover what his mind is up to in the month of january in the year of this year, is one thing. that's not given to me, maybe god1 or god2 know.
+to peer into nolen's soul - to discover what his mind is up to in the month of january in the year of this year, is one thing. that's not given to me, maybe god1 or god2 knows.
 
 but *to be creative*, to seek creativity, i will definitely muse on that.
 
