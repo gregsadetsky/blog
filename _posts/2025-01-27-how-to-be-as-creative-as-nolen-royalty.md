@@ -58,8 +58,8 @@ but i will say this (finally), i've found some solace in the following things, w
 - read/do [the artist's way](https://www.amazon.com/artists-way-25th-anniversary/dp/0143129252), maybe
 - read [art & fear](https://www.amazon.com/art-fear-observations-rewards-artmaking/dp/0961454733), absolutely
 - you don't have to *do* improv, but it's not the worse thing (you could go to a show though - [i recommend this](https://www.secondcity.com/shows/new-york/the-new-york-neo-futurists-present-the-infinite-wrench-nyc))
-- [improv games](https://improvencyclopedia.org/games/) are deliriously fun. read the list, click a random one. try it with friends. i've rarely lost a "game" of "bunny" - although winning is not the point, i *am* competitive about a few things.
-- the comfortable zone is the boring zone, unfortunately, yes. it does mean you need to seek out and try [uyghur cuisine](https://maps.app.goo.gl/c8kgpt5ybtepaucm8), things that should be spicy but aren't, weird sticky sweet things, etc. easier said than done, but growth, man.
+- [improv games](https://improvencyclopedia.org/games/) are deliriously fun. read the list, click a random one. try it with friends. i've rarely lost a "game" of "bunny" - although winning is not the point, i *am* unreasonably competitive about it.
+- the comfortable zone is the boring zone, unfortunately, yes. it does mean you need to seek out and try [uyghur cuisine](https://maps.app.goo.gl/c8kgpt5ybtepaucm8), things that should be spicy but aren't, sticky sweet things, etc. easier said than done, but growth, man.
 - i think the spa and cold plunges are transformational but i don't want to get political here.
 
 ---
