@@ -44,7 +44,7 @@ but more seriously, of course, who can really talk *to* creativity and "teach" i
 
 ---
 
-what i'm trying to say is that i would invite you, a person 9 paragraphs in, to """"""get out of your head""" (boring! sorry). and mostly also not stare at a problem and tell yourself ""i gotta be creative i gotta be creative". has that ever worked for anyone? i tried it once, and you see how that went 
+what i'm trying to say is that i would invite you, a person 9 paragraphs in, to """"""get out of your head""" (boring! sorry). and mostly also not stare at a problem and tell yourself ""i gotta be creative i gotta be creative". has that ever worked for anyone? i tried it once, and you can see how that went 
 
 i don't know what works. i don't know if anyone knows, but maybe someone.
 
