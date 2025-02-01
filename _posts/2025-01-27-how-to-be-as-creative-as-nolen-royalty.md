@@ -8,7 +8,7 @@ hi, it's been a while.
 
 anyway, <a href="https://eieio.games/">nolen royalty</a>.
 
-nolen just presented at the <a href="https://www.recurse.com/events/localhost-january-2025-omcb">recurse center's localhost</a> but the video is not yet up. when it goes live, i'll link it here.
+nolen just presented at the <a href="https://www.recurse.com/events/localhost-january-2025-omcb">recurse center's localhost</a>. <a href="https://www.youtube.com/watch?v=j2elKdupD6c">here's the video</a>, please go watch it.
 
 anyway, nolen.
 
