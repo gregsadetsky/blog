@@ -2,7 +2,6 @@
 layout: post
 title: "i will cheerlead the fuck out of your project for a 0.1% equity stake"
 date: 2025-04-29 10:08:19 -0400
-
 ---
 
 if you're trying to finish a project and need moral & emotional support over text and as many calls as you need, i will cheerlead the fuck out of your project for a 0.1% equity stake.
@@ -29,7 +28,7 @@ there are no set rules.
 
 one core truth is that any interesting work is full of anxiety-inducing unknowns, and that your idea is probably extremely awesome. that's not a blanket statement, i have to see your idea first. but most ideas are - and most ideas that people care about a lot are a lot more awesome than they think.
 
-that's it. i'm not sure how the 0.1% equity comes into the picture - maybe you sell $10k worth of some product and you give me 0.1% of that which is ten dollars (i.e. you can get me a drink). it's a fair deal. if you make a million, then i get $1000. if you make a billion, then i get $100k. if you make a trillion, then i get $100 million. the money was never the point.
+that's it. i'm not sure how the 0.1% equity comes into the picture - maybe you sell $10k worth of some product and you give me 0.1% of that which is ten dollars (i.e. you buy me a drink). it's a fair deal. if you make a million, then i get $1000. if you make a billion, then i get $100k. if you make a trillion, then i get $100 million. the money was never the point.
 
 ---
 
