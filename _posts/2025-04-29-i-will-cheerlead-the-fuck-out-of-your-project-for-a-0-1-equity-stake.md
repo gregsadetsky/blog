@@ -2,6 +2,7 @@
 layout: post
 title: "i will cheerlead the fuck out of your project for a 0.1% equity stake"
 date: 2025-04-29 10:08:19 -0400
+
 ---
 
 if you're trying to finish a project and need moral & emotional support over text and as many calls as you need, i will cheerlead the fuck out of your project for a 0.1% equity stake.
@@ -40,4 +41,4 @@ all of my advice is corny, and my perspective dumbly true. so many things are so
 
 my cheerleading is not deep. it just works.
 
-xxxxxx reach out - hi@greg.technology
+xxxxxx reach out - [hi@greg.technology](mailto:hi@greg.technology)
