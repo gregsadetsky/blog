@@ -76,6 +76,6 @@ so here's where i am today: i uninstalled the app and deleted it from my phone, 
 
 so i'm just two very easy toggles away from reinstalling instagram and going back in. i'm also happy to share that i've actually created a calendar of things i do want to post, i.e. a social media content calendar! ((to be more intentional about when i use the app)) and i am looking forward to sharing that content because i think it might be funny, and someone might like it.
 
-but! because of this, i already know that i'll be turning those toggles off. and it will feel good again, and i'll know that it's not the right kind of good. and it will seem like that's all there is to it, and that will also not be true.
+but! because of this, i already know that i'll be turning those toggles off. and it will feel good again, and i'll know that it's not the right kind of good. and it will seem like that's all there is to it, and that will also be not true.
 
 <img src="/assets/instagram/settings.jpg" style="margin-top:50px;">
