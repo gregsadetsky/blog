@@ -2,6 +2,17 @@
 layout: base
 ---
 
+<script>
+  // Set default values first, in case the front matter variable isn't set
+  window.dontCapitalize = false;
+  // You can add more defaults here for other flags you might introduce
+  // window.anotherFlag = defaultValue;
+
+  {% if page.dontCapitalize != nil %} // Check if it's defined in front matter
+    window.dontCapitalize = {{ page.dontCapitalize }};
+  {% endif %}
+</script>
+
 <article
   class="post h-entry"
   itemscope

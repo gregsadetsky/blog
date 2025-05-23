@@ -2,6 +2,8 @@
 
 // Function to add the toggle button
 function addCapitalizeToggle() {
+  if (window.dontCapitalize) return;
+
   // Create the toggle link
   const toggleLink = document.createElement("a");
   toggleLink.href = "#";
