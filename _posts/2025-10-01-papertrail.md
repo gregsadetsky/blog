@@ -18,13 +18,11 @@ I also remember that fun moment when I tried to upgrade my logging capacity and 
 
 In the following support thread, *their* customer support asked me "I would like to know if you were able to upgrade your subscription." I think??
 
-It's all good. But no, it's not actually. What prompted me to write this (I'm tired) is that a past customer of mine, a paying large-ish Papertrail customer for the last ~8 years, was simultaneously told that they had to immediately migrate away from Papertrail to SolarWinds Papertrail (not for any useful reason), and while trying to negotiate which plan would work for them, this same customer received this:
+It's all good. But no, it's not actually. What prompted me to write this (I'm tired) is that a past customer of mine, a paying large-ish Papertrail customer for the last ~8 years, was simultaneously told that they had to immediately migrate away from Papertrail to SolarWinds Papertrail (not for any useful reason), and while trying to negotiate which plan would work for them, this same customer was told:
 
----
+> Your organization was suspended because your current subscription plan expired.
 
-<p style="text-align:center;padding-top:10px;padding-bottom:10px;"><img src="/assets/papertrail/email1.jpg" width="500"></p>
-
----
+> If you wish to restore your organization, please contact SolarWinds Sales.
 
 Are you all for real.
 
