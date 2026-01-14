@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub should charge everyone $1 more per month"
-date: 2025-11-27 10:08:19 -0400
+date: 2025-11-27 10:08:20 -0400
 dontCapitalize: true
 
 ---
