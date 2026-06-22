@@ -30,10 +30,10 @@ I’m bad at submarine [marketing](https://www.paulgraham.com/submarine.html) - 
 
 As far as I can tell, it'll be the first git-push-deploys, open-source, self-hosting platform where even the control plane has no single point of failure, without making you run Kubernetes. There is still work to be done on this, but it should let you be both in-cloud or on-prem (your precious thunderbolted mac minis!) and, importantly, withstand life's chaos at more than a few [nines](https://uptime.is/).
 
-And it would also be a paid addon, “open core”ish, to our existing open source daemon and CLI.
+And it'll also be a paid addon, “open core”ish, to our existing open source daemon and CLI.
 
-I could go into the reasoning behind this new bit of licensing (the whole story even includes malicious AI code laundering!), but in the tersest terms, we want to offer a paid service to those who run commercial/big/backup-worthy services, and let everyone else run their solo servers for free, as it’s always been the case.
+I could go into the reasoning behind this new bit of licensing, but in the tersest terms, we want to offer a paid service to those who run commercial/big/backup-worthy services, and let everyone else run their solo servers for free, as it’s always been the case.
 
-I do have ONE question, folks. Is that something you’d pay for? hi@greg.technology is my email (very annoying to spell over the phone) - I would he happy to hear from you all.
+I do have ONE question, folks. Is that something you’d pay for? hi@greg.technology is my email (very annoying to spell over the phone) - I would be happy to hear from you all.
 
 With love, xx
