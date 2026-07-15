@@ -10,7 +10,7 @@ I've been refraining from saying 'vibe networking' or 'vibkrotik' or some other 
 
 I've been a fan of [MikroTik](https://mikrotik.com/) equipment for a while - the short story is that the equipment is reliable, inexpensive, and they cover a ton of networking use cases - IoT cell phone routers, regular routers, switches, point to point systems, etc.
 
-One of the usual complaints about MikroTik has been its complex ui/configuration. In a sense, I don't know if that's true inasmuch as networking is complicated in itself - as in, it goes deeper than one thinks? Maybe there should be a [iceberg-format meme](https://knowyourmeme.com/memes/iceberg-charts) about networking. At the top you'd have "ip address", and going deeper you'd see "the dude" and other you've-never-heard-of-them's.
+One of the usual complaints about MikroTik has been its complex ui/configuration. In a sense, I don't know if that's true inasmuch as networking is complicated in itself - as in, it goes deeper than one thinks? Maybe there should be a [iceberg-format meme](https://knowyourmeme.com/memes/iceberg-charts) about this. At the top you'd have "ip address", and going deeper you'd see "[the dude](https://www.youtube.com/watch?v=wWt6eL6Hj7M)" and other you've-never-heard-of-them's. mpls! igs! ospf!
 
 The point I'm trying to make is yeah, networking can just be hard. I've been half-networking, amateur-ishly, for a while now - setting up networks for friends and friends' offices, making cables, patching small panels etc. I almost certainly couldn't pass an official "Certified Routing Engineer" cert - well, not without studying a lot (believe in yourself).
 
