@@ -18,7 +18,7 @@ But you know, it hasn't stopped me (and I suppose it shouldn't?) from having fun
 
 ---
 
-Where do LLMs fit in? Well, as elsewhere (in coding, etc.) they are a chaotic force multiplier - they definitely know about MikroTiks, configuring them, and networking, but they also still get things wrong, go off-path, etc. As with coding, you can/should keep a tight leash, and mis-trust/keep-verifying, but you can also make more progress faster.
+Where do LLMs fit in? Well, as elsewhere (in coding, etc.) they are a chaotic force multiplier - they definitely know how to configure MikroTiks and networking in general, but they also still get things wrong, go off-path, etc. As with coding, you can/should keep a tight leash, and mis-trust/keep-verifying, but you can also make more progress faster.
 
 And so these last few months I've been able to setup networks - small, for sure - and had a lot of fun giving claude code access to my devices and letting it do its thing.
 
