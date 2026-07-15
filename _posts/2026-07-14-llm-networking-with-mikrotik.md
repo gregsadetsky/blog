@@ -12,9 +12,9 @@ I've been a fan of [MikroTik](https://mikrotik.com/) equipment for a while - the
 
 One of the usual complaints about MikroTik has been its complex ui/configuration. In a sense, I don't know if that's true inasmuch as networking is complicated in itself - as in, it goes deeper than one thinks? Maybe there should be a [iceberg-format meme](https://knowyourmeme.com/memes/iceberg-charts) about networking. At the top you'd have "ip address", and going deeper you'd see "the dude" and other you've-never-heard-of-them's.
 
-The point I'm trying to make is yeah, networking can just be hard. I've been half-networking, amateur-ishly, for a while now - setting up networks for friends and friends' offices, making and testing cables, patching small panels etc. I almost certainly couldn't pass an official "Certified Routing Engineer" cert - well, not without studying a lot (believe in yourself).
+The point I'm trying to make is yeah, networking can just be hard. I've been half-networking, amateur-ishly, for a while now - setting up networks for friends and friends' offices, making cables, patching small panels etc. I almost certainly couldn't pass an official "Certified Routing Engineer" cert - well, not without studying a lot (believe in yourself).
 
-But you know, it hasn't stopped me (and I suppose it shouldn't?) from having fun and fixing people's wifi (most people's wifi problems can be categorized into... oh brother - I should make another post about this. Never use extenders..)
+But you know, it hasn't stopped me (and I suppose it shouldn't?) from having fun and fixing people's wifi (most people's wifi problems can be categorized into... oh brother - I should make another post about this. Never use extenders.)
 
 ---
 
