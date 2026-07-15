@@ -42,7 +42,7 @@ In any case, if useful, here's Greg's list of LLM MikroTik tips and tricks:
 
 Oh, and finally! 
 
-I've been in situations (or maybe the LLM led me down this path..) where IP addresses are all over, you have overlapping 192.168.88.x networks... and it's generally a mess and hard to even connect to the router or switch, even if you're physically connected to a device over ethernet (which you should always be)
+I've been in situations (or maybe the LLM led me down this path..) where IP addresses are all over, you have overlapping 192.168.88.x networks, and it's generally a mess and hard to even connect to the router or switch, even if you're physically connected to those devices over ethernet (which you should always be)
 
 The best answer in my opinion is the L2 "[MAC Telnet](https://help.mikrotik.com/docs/spaces/ROS/pages/98795539/MAC+server)" ie a server that lets you telnet over the L2 (MAC-address) layer. It's sort of the equivalent of using [WinBox](https://mikrotik.com/download/winbox) -- which to my surprise is now cross-platform, and works quite well on Macs. Having a L2 telnet client allows your LLM to talk to your mikrotik - WinBox is a gui that LLMs can't control.
 
