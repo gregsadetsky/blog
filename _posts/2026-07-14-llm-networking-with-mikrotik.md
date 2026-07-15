@@ -35,8 +35,8 @@ In any case, if useful, here's Greg's list of LLM MikroTik tips and tricks:
 - having a recovery runbook helps! take down the steps of what to do if you need to restore all of your devices' configs from a good-known-place. run the runbook - an untested backup might as well be a file full of zeros.
 - as often is the case with llm's, minimize the tasks and go one by one. yes, this is the "setup my network don't make mistakes" joke - don't do that. test after every config change. llms hallucinate!
 - very small thing, but it's useful to setup ntp (time server) on all devices you're configuring
-- also small, but for sanity's sake, it's good to name/identify your devices - your router, switch, wireless access points, and use descriptive names. do the same for ports on a switch - it can be a bit of a pain to maintain as devices do move around, but knowing which port connects to what comes in handy a lot.
-- make sure to update all of your devices so they're running the same routeros version - llms also sometimes think they know how a command works but the commands do change - ask them to verify.
+- also small, but for sanity's sake, it's good to name/identify your devices - your router, switch, wireless access points, and use descriptive names. do the same for ports on a switch - it can be a bit of a pain to maintain as devices move around, but knowing which port connects to what comes in handy a lot.
+- make sure to update all of your devices so they're running the same routeros version - llms also sometimes think they know how a command works but the syntax/options do change - ask them to verify.
 
 ---
 
