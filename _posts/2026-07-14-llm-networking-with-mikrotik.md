@@ -18,9 +18,9 @@ But you know, it hasn't stopped me (and I suppose it shouldn't?) from having fun
 
 ---
 
-Where do LLMs fit in? Well, as elsewhere (in coding, etc.) they are a chaotic force multiplier - they definitely know how to configure MikroTiks and networking in general, but they also still get things wrong, go off-path, etc. As with coding, you can/should keep a tight leash, and mis-trust/keep-verifying, but you can also make more progress faster.
+Where do LLMs fit in? Well, as elsewhere (in coding, etc.) they are a chaotic force multiplier - they definitely know how to configure MikroTiks and networking in general, but they also still get things wrong, go off-path, etc. As with coding, you can/should keep a tight leash, [mis-trust and verify](https://en.wikipedia.org/wiki/Trust,_but_verify), but you can also make more progress faster ((remember the 2025 study that said that LLM speedups were not real - [well...](https://metr.org/blog/2026-02-24-uplift-update/#wider-adoption-of-ai-has-made-it-more-difficult-to-measure-task-level-productivity))).
 
-And so these last few months I've been able to setup networks - small, for sure - and had a lot of fun giving claude code access to my devices and letting it do its thing.
+And so these last few months I've been able to setup networks - small, for sure - and had a lot of fun giving claude code access to my devices and letting it do its thing. ([As I discussed here](https://agentsandengineers.com/episodes/0001-vibe-coding-in-the-physical-world-robotics-circuits-and-dangerous-permissions/), yes, I do mean dangerously-skip'ing-permissions).
 
 I've compiled a short list of maybe/hopefully useful notes for myself - in one case, I was migrating an existing network (a very small single-router-with-integrated-wifi to a router+switch+two wireless access points), while in two other cases the networks were net new.
 
