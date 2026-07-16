@@ -24,7 +24,7 @@ And so these last few months I've been able to setup networks - small, for sure 
 
 I've compiled a short list of hopefully useful notes on this topic - in one case, I was migrating an existing network (a very small single-router-with-integrated-wifi to a router+switch+two wireless access points), while in two other cases the networks were net new.
 
-In any case, if useful, here's Greg's list of LLM MikroTik tips and tricks:
+In any case, here's my list of LLM MikroTik tips and tricks:
 
 - even though mikrotiks can be configured over ssh, there's a "death by a thousand cuts" that tends to happen when llms try to pipe text back and forth that way. the much better (ie more llm native) channel is to use the REST/JSON api.
 - as a generally-good-practice, I recommend disabling insecure services - the non secure api port, www, telnet and ftp
