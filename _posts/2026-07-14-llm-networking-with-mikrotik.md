@@ -22,29 +22,29 @@ Where do LLMs fit in? Well, as elsewhere (in coding, etc.) they are a chaotic fo
 
 And so these last few months I've been able to setup networks - small, for sure - and had a lot of fun giving claude code access to my devices and letting it do its thing. ([As I discussed here](https://agentsandengineers.com/episodes/0001-vibe-coding-in-the-physical-world-robotics-circuits-and-dangerous-permissions/), yes, I do mean dangerously-skip'ing-permissions).
 
-I've compiled a short list of maybe/hopefully useful notes for myself - in one case, I was migrating an existing network (a very small single-router-with-integrated-wifi to a router+switch+two wireless access points), while in two other cases the networks were net new.
+I've compiled a short list of hopefully useful notes on this topic - in one case, I was migrating an existing network (a very small single-router-with-integrated-wifi to a router+switch+two wireless access points), while in two other cases the networks were net new.
 
 In any case, if useful, here's Greg's list of LLM MikroTik tips and tricks:
 
-- even though mikrotiks can be configured over ssh, there's a "death by a thousand cuts" that tends to happen when llms try to pipe text back and forth. the much better (ie more llm native) channel is to use the REST/JSON api.
-- I recommend disabling insecure services - the non secure api port, www, telnet and ftp
-- dump the entire config before any change, and dump it again after. source version controlling those is great. having some automated backup tool (which I haven't gotten around to build yet) would be the best
-- CAPsMAN is truly a huge wifi simplifier - configuring it with llms is an absolute breeze
+- even though mikrotiks can be configured over ssh, there's a "death by a thousand cuts" that tends to happen when llms try to pipe text back and forth that way. the much better (ie more llm native) channel is to use the REST/JSON api.
+- as a generally-good-practice, I recommend disabling insecure services - the non secure api port, www, telnet and ftp
+- dump the entire config before any change, and dump it once you're done. source version controlling those is great. having some automated backup tool (which I haven't gotten around to build yet) would be the best
+- CAPsMAN is truly a huge wifi simplifier to setup multiple wireless access points - configuring it with llms is an absolute breeze
 - I often come back to the "trick" of asking multiple llms - antigravity, codex, opus and fable - to double check the config and come to a consensus to see if anything is missing or terribly wrong.
 - perhaps obvious, but before tearing down a network (when migrating to a mikrotik), take note of ssid's, passwords, dhcp reservations
-- having a recovery runbook helps! take down the steps of what to do if you need to restore all of your devices' configs from a good-known-place. run the runbook - an untested backup might as well be a file full of zeros.
-- as often is the case with llm's, minimize the tasks and go one by one. yes, this is the "setup my network don't make mistakes" joke - don't do that. test after every config change. llms hallucinate!
-- very small thing, but it's useful to setup ntp (time server) on all devices you're configuring
-- also small, but for sanity's sake, it's good to name/identify your devices - your router, switch, wireless access points, and use descriptive names. do the same for ports on a switch - it can be a bit of a pain to maintain as devices move around, but knowing which port connects to what comes in handy a lot.
-- make sure to update all of your devices so they're running the same routeros version - llms also sometimes think they know how a command works but the syntax/options do change - ask them to verify.
+- have a recovery runbook! take down the steps of what to do if you need to restore all of your devices' configs from a good-known-place (hence, backing up your configs). run the runbook - an untested backup might as well be a file full of zeros.
+- as often is the case with llm's, minimize the tasks and go step by step. yes, this is the "setup my network don't make mistakes" joke - don't do that. test after every config change. llms hallucinate!
+- very small thing, but it's useful to setup ntp (time server) on all of the devices you're configuring
+- also small, but for sanity's sake, it's good to give descriptive names/identify your devices - your router, switch, wireless access points. do the same for ports on a switch - it can be a bit of a pain to maintain as devices move around, but knowing which port connects to what comes in handy a lot.
+- make sure to update all of your devices so they're running the same routeros version - llms also sometimes think they know how a command works but the syntax/options change with time - ask them to verify.
 
 ---
 
 Oh, and finally! 
 
-I've been in situations (or maybe the LLM led me down this path..) where IP addresses are all over, you have overlapping 192.168.88.x networks, and it's generally a mess and hard to even connect to the router or switch, even if you're physically connected to those devices over ethernet (which you should always be)
+I've been in situations (or maybe the LLM led me down this path..) where IP addresses are conflicting, you have multiple overlapping 192.168.88.x networks, and it's generally a mess and hard to even connect to the router or switch, even if you're physically connected to those devices over ethernet (which you should always be)
 
-The best answer in my opinion is the L2 "[MAC Telnet](https://help.mikrotik.com/docs/spaces/ROS/pages/98795539/MAC+server)" ie a server that lets you telnet over the L2 (MAC-address) layer. It's sort of the equivalent of using [WinBox](https://mikrotik.com/download/winbox) -- which to my surprise is now cross-platform, and works quite well on Macs. Having a L2 telnet client allows your LLM to talk to your mikrotik - WinBox is a gui that LLMs can't control.
+The best tool for this in my opinion is the L2 "[MAC Telnet](https://help.mikrotik.com/docs/spaces/ROS/pages/98795539/MAC+server)" ie a server that lets you telnet over the L2 (MAC-address) layer. It's sort of the equivalent of using [WinBox](https://mikrotik.com/download/winbox) (which to my surprise is now cross-platform, and works quite well on Macs). Having an L2-layer telnet client allows your LLM to talk to your MikroTik devices - WinBox is a GUI software that LLMs can't control.
 
 For this, I deeply recommend [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) - it will come in handy at the worst time ie when IP addresses don't work! I/Claude just built a tiny Homebrew [formula](https://github.com/gregsadetsky/homebrew-mactelnet/) to make its installation easier, but you can also follow the original installation instructions - it's the same code. I also made this small [CLI](https://gist.github.com/gregsadetsky/eab0be331cb99342dd4be6bab7353f13) just to make MAC-Telnet a bit more LLM-friendly to consume/use, but generally speaking, LLMs will figure out how to use a CLI tool by themselves.
 
