@@ -36,7 +36,7 @@ In any case, here's my list of LLM MikroTik tips and tricks:
 - as often is the case with llm's, minimize the tasks and go step by step. yes, this is the "setup my network don't make mistakes" joke - don't do that. test after every config change. llms hallucinate!
 - very small thing, but it's useful to setup ntp (time server) on all of the devices you're configuring
 - also small, but for sanity's sake, it's good to give descriptive names/identify your devices - your router, switch, wireless access points. do the same for ports on a switch - it can be a bit of a pain to maintain as devices move around, but knowing which port connects to what comes in handy a lot.
-- make sure to update all of your devices so they're running the same routeros version - llms also sometimes think they know how a command works but the syntax/options change with time - ask them to verify.
+- make sure to update all of your devices so they're running the same routeros version - llms also sometimes think they know how a command works but the syntax/options change over time - ask them to verify.
 
 ---
 
