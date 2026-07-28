@@ -16,7 +16,7 @@ So in terms of pure sweat-to-thinking ratio (hmm, bad ratio), I'm at 0. But... A
 
 It's good firstly (and obviously-ly) to realize that Nolen, Eliot, Henry and Frank did extraordinary work - and/but did make this contest the way it is - because AI ... can solve a lot of things (((and be absolutely useless))) quickly, especially _programming_-related things.
 
-Well... "linearly"-programming-related things! One-dimensionally-shaped-programmin-related-things! The things that go top to bottom - those kinds, LLMs can be less bad at. The kinds that go 4 ways, less so. And so/because of this, _NEHR_ (their first names) chose to make people compete this year on/with/using a 2d esolang. 2d esolangs, as many other things in life, are a whole [category](https://esolangs.org/wiki/Category:Two-dimensional_languages) of eso's.
+Well... "linearly"-programming-related things! One-dimensionally-shaped-programming-related-things! The things that go top to bottom - those kinds, LLMs can be less bad at. The kinds that go 4 ways, less so. And so/because of this, _NEHR_ (their first names) chose to make people compete this year on/with/using a 2d esolang. 2d esolangs, as many other things in life, are a whole [category](https://esolangs.org/wiki/Category:Two-dimensional_languages) of eso's.
 
 ---
 
