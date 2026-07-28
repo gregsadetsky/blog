@@ -34,7 +34,7 @@ Both you and the AI think they know what you're both good/bad at, but you can be
 
 It would spontaneously say things like "that new algorithm will take hours!" even though it would take it ten minutes to implement. Or it would be confused about what time it was (!!), trying to "optimize" itself and wanting to stop working on solutions because we were "too close" to the deadline. Opus even told me it was Fable one time - then I asked it again (cause that's our jobs now?) - and it said oh oopsy daisy you're so right.
 
-Like bro, I'm going to walk into a Fortune 100 company tomorrow and declare that they could do so much with AI ("just imagine firing all of these people!"), but it also doesn't know its own name/model, and also argues with you about it for free (sorry, not free - you pay by the token)?
+Like bro, I'm going to walk into a Fortune 100 company tomorrow and declare that they could do so much with AI ("just imagine firing all of these people!"), but it also doesn't know its own name/model, and also argues with you about it for free? (sorry, not free - you pay by the token)
 
 3. The AI gets lost, in the proverbial sauce of its own making, a lot.
 
