@@ -24,19 +24,19 @@ Well... "linearly"-programming-related things! One-dimensionally-shaped-programm
 
 Well, first, some necessary reminders:
 
-1. AI is not good at everything - it's good at some things, bad at other things.
+- AI is not good at everything - it's good at some things, bad at other things.
 
 (at this point in the McKinsey .ppt presentation, you've already spent 400k on them).
 
 Both you and the AI think they know what you're both good/bad at, but you can be wrong or right, and you won't know (until it's late, until you've gone cuckoo, etc.). You know the saying "nobody, nobody—not now, not ever—knows the least goddam thing about what is or isn’t going to work at the box office" - ok, it's a bit unrelated - but sometimes, with AI - it feels like "is this even going to work" is not even answerable. You have to try/suffer through it. (which I did.) Or, I guess, adopt (hopefully not placebo) strategies that seem to maybe help.
 
-2. Asking the AI about its own abilities is comedy.
+- Asking the AI about its own abilities is comedy.
 
 It would spontaneously say things like "that new algorithm will take hours!" even though it would take it ten minutes to implement. Or it would be confused about what time it was (!!), trying to "optimize" itself and wanting to stop working on solutions because we were "too close" to the deadline. Opus even told me it was Fable one time - then I asked it again (cause that's our jobs now?) - and it said oh oopsy daisy you're so right.
 
 Like bro, I'm going to walk into a Fortune 100 company tomorrow and declare that they could do so much with AI ("just imagine firing all of these people!"), but it also doesn't know its own name/model, and also argues with you about it for free? (sorry, not free - you pay by the token)
 
-3. The AI gets lost, in the proverbial sauce of its own making, a lot.
+- The AI gets lost, in the proverbial sauce of its own making, a lot.
 
 It might be the only true one thing that I try to keep the most top of mind when working with these piles of weights. They keep making plans and forgetting, spawning agents (supposedly to solve a sub problem) just for the sub agent to forget what it was doing/follow a too narrow path, not integrate its learnings anywhere.
 
