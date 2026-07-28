@@ -6,7 +6,7 @@ dontCapitalize: true
 
 ---
 
-I just took part as a team of 1 (or 0, really) at the [ICFP Programming Contest of 2026](https://icfpcontest2026.com/). TLDR - I used nothing but AI, mostly Fable, and did okay-ishly well, finishing in the top ~25 (final results will be revealed in about a month) out of ~200 teams participating.
+I just took part as a team of 1 (or 0, really) at the [ICFP Programming Contest of 2026](https://icfpcontest2026.com/). TLDR - I used nothing but AI, mostly Fable, and did [okay-ishly well](https://icfpcontest2026.com/standings/team/DFCx2rlwihA30fV3uh7743pqpuAWSUGR), finishing in the top ~25 (final results will be revealed in about a month) out of ~200 teams participating.
 
 The organizers - some close friends, all incredible people - are encouraging people who took part to share a write up, which you're reading now. There are/will be a lot more interesting/technical/"real" write ups - such as this [one](http://www.sawicki.us/icfp/2026/) (which is truly incredible) - and mine "can't" really be that technical because - well - I didn't do much but oversee AI doing the work.
 
