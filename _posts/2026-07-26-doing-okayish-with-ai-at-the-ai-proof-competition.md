@@ -48,7 +48,7 @@ For absolutely sure, having testing/validation (that the AI can't touch/change) 
 
 (sorry)
 
-I just kept being wildly swung across the useful/careless gradient that AIs are - one minute, llms from different companies (agy/codex/fable) were all concocting a plan, researching past/existing algorithms around 2d placement of code. It felt productive? It did also feel like the optimizers it ended up building were somehow based on this research? But it also kept forgetting (everything) and had no one but me to bring it back. "hey remember that other strategy though?" "why are you working on this?", etc. - for hours.
+I just kept being wildly swung across the useful/careless gradient that AIs are - one minute, llms from different companies (agy/codex/fable) were all concocting a plan, researching past/existing algorithms around 2d placement of code. It felt productive? It did also feel like the optimizers it ended up building were somehow based on this research? But it also kept forgetting (everything) and had no one but me to bring them back. "hey remember that other strategy though?" "why are you working on this?", etc. - for hours.
 
 ---
 
