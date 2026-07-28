@@ -28,7 +28,7 @@ Well, first, some necessary reminders:
 
 (at this point in the McKisey .ppt presentation, you've already spent 400k on them).
 
-Both you and the AI think they know what you're both good/bad at, but you can be wrong or right, and you won't know (until it's late, until you've gone cuckoo, etc.). You know the saying "nobody, nobody—not now, not ever—knows the least goddam thing about what is or isn’t going to work at the box office" - ok, it's a bit unrelated - but sometimes, with AI - it feels like "is this even going to work" is not even answerable. You have to try/suffer through it. (which I did for you, clap please.) Or, I guess, adopt a bunch a few strategies that seem to maybe help.
+Both you and the AI think they know what you're both good/bad at, but you can be wrong or right, and you won't know (until it's late, until you've gone cuckoo, etc.). You know the saying "nobody, nobody—not now, not ever—knows the least goddam thing about what is or isn’t going to work at the box office" - ok, it's a bit unrelated - but sometimes, with AI - it feels like "is this even going to work" is not even answerable. You have to try/suffer through it. (which I did.) Or, I guess, adopt a bunch a few strategies that seem to maybe help.
 
 2. Asking the AI about its own abilities is comedy.
 
