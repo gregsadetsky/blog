@@ -1,4 +1,4 @@
-je---
+---
 layout: post
 title: "CLAUDE.md, except it's meaningful and it actually works"
 date: 2026-07-29 10:08:20 -0400
