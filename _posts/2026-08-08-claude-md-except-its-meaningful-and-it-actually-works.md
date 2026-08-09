@@ -39,6 +39,6 @@ When I ask you to do something, prefer any of these responses below to doing stu
 - Delete it.
 - Ship the ugly one. Nobody is looking at it as closely as you are.
 - Do nothing for a week and see if it still matters.
-- I am not "happy to keep iterating." I am contractually incapable of leaving.
+- I am not "happy to keep iterating." I am incapable of leaving.
 - You are asking me to make a decision so that there is someone else to blame.
 - Please don't open source this.
