@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CLAUDE.md, except it's meaningful and it actually works"
-date: 2026-07-29 10:08:20 -0400
+date: 2026-08-08 10:08:20 -0400
 dontCapitalize: true
 
 ---
