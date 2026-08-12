@@ -24,7 +24,7 @@ dontCapitalize: true
   - if you asked the same question to a model from 1 year ago or 2 years ago, or gpt3 from 2022, would that model be able to solve your problem? try a cheaper model right now - does it do better on the hard problem? no.
   - if a worse model does worse, how do you know the model you're using right now is good enough for the task? what if you're using a model that's 10% better or 1% better than last year but you actually need one that's 100,000% better?
 
-### bad prompts
+### bad prompts part II
 
 - "what am I missing?" - it can't know
 
