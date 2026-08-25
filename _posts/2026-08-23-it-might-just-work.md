@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It just might work!"
+title: "It might just work!"
 date: 2026-08-11 10:08:20 -0400
 dontCapitalize: true
 
