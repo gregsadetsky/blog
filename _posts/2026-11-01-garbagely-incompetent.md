@@ -16,7 +16,7 @@ The true consecration, my "you've made it baby" sign, happens a few more years i
 
 What am I trying to say - well. It happened. I went outside today, and everything was top shelf, top notch, the S-est of tiers, every-thing. Weather. Sunlight. Humidity. An early november wind. Uncrunched leaves. Even babies knew that crying was not *in* today. Humanity smiled at God, God smiled back, and runners were in peace. For multiple moments, I understood happiness.
 
-The crowds are huge though, agoraphobically so. Despite everyone being a level of giddy that you'd wish more of (should there be more marathons), it all felt surprising and scary. But good scary, in a "this is a new experience that I hope never loses its edge".
+The crowds were also agoraphobically huge. Despite everyone being a level of giddy that you'd wish more of (should there be more marathons), it all felt surprising and scary. But good scary, in a "this is a new experience that I hope never loses its edge".
 
 But then, I opened the NYRR mobile app.
 
