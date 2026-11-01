@@ -12,7 +12,7 @@ You hear of the famous semi sanctioned [bike race](https://www.reddit.com/r/NYCb
 
 As a sign of your integration into polite NY society, you get invited to cheer for a friend of a friend, a cheer plus one. You are there happy for people happy-for-people-who-are-running and it still feels real, but it's far from your heart. You enjoy and keep being a little scared. The crowds are real. They are cheering, sweaty, and supremely real. Everything is real.
 
-The true consecration, my "you've made it baby" sign, happens a few more years in still - you get an invitation to go see a friend, someone you know and care about, run. That, truly, feels epitomic. It's a high. All friendships are a high, but a marathon invite feels like receiving a friendship PhD.
+The true consecration, my "you've made it baby" sign, happens a few more years in still - you get an invitation to go see a friend, someone you know and care about, run. That, truly, feels epitomic. It's a high. All friendships are a high, but a marathon invite feels like a friendship PhD.
 
 What am I trying to say - well. It happened. I went outside today, and everything was top shelf, top notch, the S-est of tiers, every-thing. Weather. Sunlight. Humidity. An early november wind. Uncrunched leaves. Even babies knew that crying was not *in* today. Humanity smiled at God, God smiled back, and runners were in peace. For multiple moments, I understood happiness.
 
