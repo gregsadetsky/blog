@@ -16,7 +16,7 @@ I am requesting a few hardwares to fulfill my dreams, to bootstart a """revoluti
 
 We need this now because our agents only care if the device is reachable and somewhat documented and not crazy.
 
-Give us Ethernet, accept PoE, stop pretending to be smart. We always just wanted the data, and nobody installed any app because they wanted to.
+Give us Ethernet, accept PoE, stop pretending to be smart. We always just wanted the data, and nobody installed any apps (for their AC, etc.) because they wanted to.
 
 ---
 
