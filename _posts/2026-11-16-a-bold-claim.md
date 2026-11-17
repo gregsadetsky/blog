@@ -16,8 +16,6 @@ I also fetched data, from the Google Mapses and elsewhere. I had data.
 
 And I think that I found a (new-ish to me, but probably very old trick) pattern in review inflation. I have no inside knowledge of how any restaurant is run. Here's what I think happens at places like this:
 
-The pattern is:
-
 1- A place is terrible.
 2- The terrible place starts getting negative reviews for how annoying it is. Note here that it's usually interesting to see that bad places won't spend too much controlling bad reviews on every site - and so bad reviews might accumulate on Yelp, but solicited-good-reviews will appear on Google Maps --- yes, that GMaps vs Yelp delta is already a signal, maybe. But there's a funnier one...
 3- To compensate for the bad reviews, the manager(s) tell staff: you gotta ask people to leave 5 star reviews!
